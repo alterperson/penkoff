@@ -1,3 +1,3 @@
-# Макет сайта Penkoff
+# Cайт Penkoff
 
-https://penkoff.netlify.com
+Воркшоп от Glo Academy - https://alterperson.github.io/penkoff--workshop/
