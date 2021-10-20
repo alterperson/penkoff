@@ -1,3 +1,3 @@
 # Cайт Penkoff
 
-Воркшоп от Glo Academy - https://alterperson.github.io/penkoff--workshop/
+Воркшоп от Glo Academy - https://alterperson.github.io/penkoff--gloAcademy/
